@@ -1,0 +1,15 @@
+# ninja log v6
+4	1322	7715176596798368	Miernik2D_autogen/timestamp	589ec6aefdbc0a65
+4	1322	7715176596798368	Miernik2D_autogen/mocs_compilation.cpp	589ec6aefdbc0a65
+4	1322	7715176596798368	C:/Users/mikol/Desktop/Studia Windows/Miernik2D/build/Desktop_Qt_6_9_0_MinGW_64_bit-Profile/Miernik2D_autogen/timestamp	589ec6aefdbc0a65
+4	1322	7715176596798368	C:/Users/mikol/Desktop/Studia Windows/Miernik2D/build/Desktop_Qt_6_9_0_MinGW_64_bit-Profile/Miernik2D_autogen/mocs_compilation.cpp	589ec6aefdbc0a65
+1334	1396	7715176597639940	CMakeFiles/Miernik2D.dir/motor.cpp.obj	4c1501ce8df56b69
+1345	1537	7715176597748804	CMakeFiles/Miernik2D.dir/device.cpp.obj	6eeed62ada10db85
+1336	2516	7715176597659953	CMakeFiles/Miernik2D.dir/sensor.cpp.obj	b0a3ed53d6797b52
+1338	2627	7715176597680990	CMakeFiles/Miernik2D.dir/meter.cpp.obj	5d46db0c93be4cfe
+1341	2835	7715176597706175	CMakeFiles/Miernik2D.dir/serial_port.cpp.obj	1baf2e81c3a7af31
+1343	2863	7715176597728667	CMakeFiles/Miernik2D.dir/simulated_device.cpp.obj	3b3c05efab989cc7
+1330	6284	7715176597597319	CMakeFiles/Miernik2D.dir/main.cpp.obj	69e655384c3ac4dc
+1328	6503	7715176597572159	CMakeFiles/Miernik2D.dir/Miernik2D_autogen/mocs_compilation.cpp.obj	f66fdc946e95449
+1332	7230	7715176597617357	CMakeFiles/Miernik2D.dir/mainwindow.cpp.obj	1860e48c5f842fca
+7230	7435	7715176656604734	Miernik2D.exe	e0c5d8c7812ffd6c

@@ -1,0 +1,39 @@
+# ninja log v6
+23	126	7659748737770046	Kalkulator_autogen/timestamp	a1f63fd73ee07f50
+62	2639	7658322434375259	CMakeFiles/Kalkulator.dir/Kalkulator_autogen/mocs_compilation.cpp.obj	f68317427e67d2be
+37	645	7659749515395813	build.ninja	d0ddb9dbc9e907dc
+23	126	7659748737770046	Kalkulator_autogen/mocs_compilation.cpp	a1f63fd73ee07f50
+126	2212	7659748738796702	CMakeFiles/Kalkulator.dir/mainwindow.cpp.obj	5eed498e8ff4c787
+23	126	7659748737770046	C:/Users/mikol/Desktop/Studia Windows/Kalkulator/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Kalkulator_autogen/timestamp	a1f63fd73ee07f50
+23	126	7659748737770046	C:/Users/mikol/Desktop/Studia Windows/Kalkulator/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Kalkulator_autogen/mocs_compilation.cpp	a1f63fd73ee07f50
+171	1562	7659744181305685	CMakeFiles/Kalkulator.dir/main.cpp.obj	138af0936ed74631
+3650	3939	7658326049969582	Kalkulator.exe	1bda194d87e5da2
+305	903	7658300681282666	CMakeFiles/Kalkulator.dir/C_/Users/mikol/Source/Repos/Lab2_kalkulator/Lab2_kalkulator.cpp.obj	f8248baa5173b28c
+129	394	7659748738828425	CMakeFiles/Kalkulator.dir/calc_class.cpp.obj	a71d86d6a273ed1d
+21	550	7659749515395813	build.ninja	d0ddb9dbc9e907dc
+19	124	7659749516178506	Kalkulator_autogen/timestamp	a1f63fd73ee07f50
+19	124	7659749516178506	Kalkulator_autogen/mocs_compilation.cpp	a1f63fd73ee07f50
+19	124	7659749516178506	C:/Users/mikol/Desktop/Studia Windows/Kalkulator/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Kalkulator_autogen/timestamp	a1f63fd73ee07f50
+19	124	7659749516178506	C:/Users/mikol/Desktop/Studia Windows/Kalkulator/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Kalkulator_autogen/mocs_compilation.cpp	a1f63fd73ee07f50
+126	360	7659749517249879	CMakeFiles/Kalkulator.dir/calc_class.cpp.obj	a71d86d6a273ed1d
+124	1704	7659749517229508	CMakeFiles/Kalkulator.dir/mainwindow.cpp.obj	5eed498e8ff4c787
+28	155	7659751832601505	Kalkulator_autogen/timestamp	a1f63fd73ee07f50
+28	155	7659751832601505	Kalkulator_autogen/mocs_compilation.cpp	a1f63fd73ee07f50
+28	155	7659751832601505	C:/Users/mikol/Desktop/Studia Windows/Kalkulator/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Kalkulator_autogen/timestamp	a1f63fd73ee07f50
+28	155	7659751832601505	C:/Users/mikol/Desktop/Studia Windows/Kalkulator/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Kalkulator_autogen/mocs_compilation.cpp	a1f63fd73ee07f50
+158	846	7659751833902766	CMakeFiles/Kalkulator.dir/calc_class.cpp.obj	a71d86d6a273ed1d
+156	3478	7659751833882772	CMakeFiles/Kalkulator.dir/mainwindow.cpp.obj	5eed498e8ff4c787
+3478	3942	7659751867098305	Kalkulator.exe	80f1757ffb01a0b9
+42	538	7659754415223019	Kalkulator_autogen/timestamp	a1f63fd73ee07f50
+42	538	7659754415223019	Kalkulator_autogen/mocs_compilation.cpp	a1f63fd73ee07f50
+42	538	7659754415223019	C:/Users/mikol/Desktop/Studia Windows/Kalkulator/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Kalkulator_autogen/timestamp	a1f63fd73ee07f50
+42	538	7659754415223019	C:/Users/mikol/Desktop/Studia Windows/Kalkulator/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Kalkulator_autogen/mocs_compilation.cpp	a1f63fd73ee07f50
+539	2490	7659754415743901	CMakeFiles/Kalkulator.dir/Kalkulator_autogen/mocs_compilation.cpp.obj	f68317427e67d2be
+541	2559	7659754415773941	CMakeFiles/Kalkulator.dir/main.cpp.obj	138af0936ed74631
+37	172	7659755284779704	Kalkulator_autogen/timestamp	a1f63fd73ee07f50
+37	172	7659755284779704	Kalkulator_autogen/mocs_compilation.cpp	a1f63fd73ee07f50
+37	172	7659755284779704	C:/Users/mikol/Desktop/Studia Windows/Kalkulator/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Kalkulator_autogen/timestamp	a1f63fd73ee07f50
+37	172	7659755284779704	C:/Users/mikol/Desktop/Studia Windows/Kalkulator/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Kalkulator_autogen/mocs_compilation.cpp	a1f63fd73ee07f50
+173	1787	7659755286132633	CMakeFiles/Kalkulator.dir/mainwindow.cpp.obj	5eed498e8ff4c787
+26	1170	7659755544226345	CMakeFiles/Kalkulator.dir/Kalkulator_autogen/mocs_compilation.cpp.obj	f68317427e67d2be
+1170	1300	7659755555670522	Kalkulator.exe	80f1757ffb01a0b9

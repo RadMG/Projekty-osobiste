@@ -1,0 +1,9 @@
+/home/rad/Desktop/Projekty/Studia/Miernik2D/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/Miernik2D.dir
+/home/rad/Desktop/Projekty/Studia/Miernik2D/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/edit_cache.dir
+/home/rad/Desktop/Projekty/Studia/Miernik2D/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/rebuild_cache.dir
+/home/rad/Desktop/Projekty/Studia/Miernik2D/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/list_install_components.dir
+/home/rad/Desktop/Projekty/Studia/Miernik2D/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/install.dir
+/home/rad/Desktop/Projekty/Studia/Miernik2D/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/install/local.dir
+/home/rad/Desktop/Projekty/Studia/Miernik2D/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/install/strip.dir
+/home/rad/Desktop/Projekty/Studia/Miernik2D/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/Miernik2D_autogen_timestamp_deps.dir
+/home/rad/Desktop/Projekty/Studia/Miernik2D/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/Miernik2D_autogen.dir
