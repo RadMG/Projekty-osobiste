@@ -14,7 +14,7 @@ Stepper horizontal(horizontal_steps, 8, 10, 9, 11);
 
 void writeStepper(int msg_pos){
   int move_val = msg_pos - horizontal_pos;
-  horizontal.step(map(move_val, 0, 360, 0, horizontal_steps));
+  horizontal.step(map(move_val, 0, 359, 0, horizontal_steps));
 }
 
 void transmitData(int x, int y, int z){
