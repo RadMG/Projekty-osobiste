@@ -114,12 +114,12 @@ void MainWindow::readData(QByteArray data)
         }
         }
         if(scan2D_axis == 'y'){
-            if(y != 179)
+            if(y != 180)
             {
                 ui->yValueSLDR->setValue(y+1);
                 sendPos();
             }
-            else if(y == 179)
+            else if(y == 180)
             {
                 isScanning = 0;
                 refreshChart();
@@ -328,7 +328,7 @@ void MainWindow::refreshChart()
     }
     else if(scan2D_axis == 'y')
     {
-        range = 179;
+        range = 180;
         for (int i = 0; i <= range; ++i)
         {
             double y = meter_A.getData(xPos, i);

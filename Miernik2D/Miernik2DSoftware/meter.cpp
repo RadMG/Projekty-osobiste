@@ -2,7 +2,7 @@
 
 meter::meter()
     : x_motor(0, 359, 0),
-      y_motor(0, 179, 0)
+      y_motor(0, 180, 0)
 {
     data = std::vector<std::vector<double>>(360, std::vector<double>(180));
 }
@@ -33,7 +33,7 @@ bool meter::clearData()
     {
         for (int i = 0; i<=359; i++)
         {
-            for (int j = 0; j<=179; j++)
+            for (int j = 0; j<=180; j++)
             {
                 data[i][j] = 0;
             }

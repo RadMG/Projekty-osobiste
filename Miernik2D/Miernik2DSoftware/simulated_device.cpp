@@ -13,7 +13,7 @@ void simulated_device::generateData(int x)
 
     for (int i = 0; i<=359; i++)
     {
-        for (int j = 0; j<=179; j++)
+        for (int j = 0; j<=180; j++)
         {
             double dx = i - center_x;
             double dy = j - center_y;
@@ -21,7 +21,7 @@ void simulated_device::generateData(int x)
 
             switch(x){
             case 1:
-                data[i][j] = (0.5*(i/359.0) + 0.5*(j/179.0))*255;
+                data[i][j] = (0.5*(i/359.0) + 0.5*(j/180.0))*255;
             break;
             case 2:
             {
@@ -64,7 +64,7 @@ bool simulated_device::clearData()
     {
         for (int i = 0; i<=359; i++)
         {
-            for (int j = 0; j<=179; j++)
+            for (int j = 0; j<=180; j++)
             {
                 data[i][j] = 0;
             }
